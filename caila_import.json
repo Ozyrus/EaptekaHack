@@ -1,7 +1,7 @@
 {
   "project" : {
-    "id" : "eaptekagithub-247961767-zqT",
-    "name" : "eaptekagithub-247961767-zqT",
+    "id" : "eaptekagithub-247961767-JrU",
+    "name" : "eaptekagithub-247961767-JrU",
     "folder" : "/jaicp"
   },
   "settings" : {
@@ -15,7 +15,7 @@
     "shared" : false
   },
   "intents" : [ {
-    "id" : 765951,
+    "id" : 765957,
     "path" : "/время",
     "enabled" : true,
     "shared" : false,
@@ -31,7 +31,7 @@
       "array" : false
     } ]
   }, {
-    "id" : 765952,
+    "id" : 765958,
     "path" : "/пока",
     "enabled" : true,
     "shared" : false,
@@ -40,7 +40,7 @@
     } ],
     "patterns" : [ ]
   }, {
-    "id" : 765953,
+    "id" : 765959,
     "path" : "/привет",
     "enabled" : true,
     "shared" : false,
@@ -49,7 +49,7 @@
     } ],
     "patterns" : [ ]
   }, {
-    "id" : 765954,
+    "id" : 765960,
     "path" : "/телефон",
     "enabled" : true,
     "shared" : false,
